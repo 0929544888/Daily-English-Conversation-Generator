@@ -1,0 +1,5 @@
+{
+  "name": "Daily English Conversation Generator",
+  "description": "An application that generates practical English daily conversations with Traditional Chinese translations and text-to-speech functionality, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
